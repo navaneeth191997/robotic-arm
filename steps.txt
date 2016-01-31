@@ -1,0 +1,14 @@
+Steps to build the prototype arm-
+
+
+Glue an ice cream spoon to the tip of a potentiometer along its length.  
+Now glue that potentiometer to the wooden piece E (25cm x 25cm) . 
+This would serve as the controller of the base of the robotic arm.
+At the bottom of that ice cream spoon fix the base of another potentiometer.
+Stick an ice cream spoon at the tip of that potentiometer. 
+This would act as the controller of jaw of the robotic arm. 
+Now glue a potentiometer at the top of the ice cream spoon and insert another spoon to the tip of the potentiometer.
+Glue the base of a potentiometer to that spoon.
+Insert another stick at the tip of the potentiometer.  
+This would be the prototype arm which will act as the controller for our robotic arm.
+
