@@ -1,0 +1,40 @@
+Materials required - 
+
+
+SR NO.	COMPONENT			SPECIFICATION			QUANTITY
+1	Arduino board			UNO				1
+
+2	Personal  Computer with  	1 x USB 2.0 
+	arduino software installed	compatible (minimum)	   	1
+
+3	Servo motors			Micro servo (9g) 		4
+
+4	Potentiometer			10 K?				4
+
+5	Jumper wires			Male to male			40
+
+6	Bread board							1
+
+7	Wooden frame A			10cm x 3cm			1
+        Wooden frame B			13cm x 4 cm			1
+        Wooden frame C			9cm x 2cm			1
+        Wooden frame D			5cm x 1 cm			1
+        Wooden frame E			25cm x 25 cm			1
+
+8	Ice cream spoons		wooden				5
+
+9	Super glue							10 ml
+
+10	Soldering iron set						1
+
+11	Insulation tape 		2cm x 200 cm			1
+
+12	Hack saw 			Small				1
+
+13	Screw driver set						1
+
+14	Scissors			Small				1
+	
+15	Double sided tape		2.5cm x 10cm 			1
+
+
